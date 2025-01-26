@@ -47,16 +47,5 @@
     },
     "bin": [
         "bin/bunq-install"
-    ],
-    "config": {
-        "sort-packages": true,
-        "platform": {
-            "php": "7.3"
-        }
-    },
-    "scripts": {
-        "phpstan": [
-            "./vendor/bin/phpstan analyse --level 2 src"
-        ]
-    }
+    ]
 }
