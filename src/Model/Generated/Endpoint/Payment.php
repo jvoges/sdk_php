@@ -12,6 +12,7 @@ use bunq\Model\Generated\Object\LabelMonetaryAccount;
 use bunq\Model\Generated\Object\PaymentArrivalExpected;
 use bunq\Model\Generated\Object\Pointer;
 use bunq\Model\Generated\Object\RequestInquiryReference;
+use Bunq\Model\Generated\Object\PaymentSuspendedOutgoing;
 
 /**
  * Using Payment, you can send payments to bunq and non-bunq users from your
