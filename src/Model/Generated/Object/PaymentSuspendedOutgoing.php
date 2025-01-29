@@ -1,8 +1,8 @@
 <?php
 
-namespace Bunq\Model\Generated\Object;
+namespace bunq\Model\Generated\Object;
 
-use Bunq\Model\Core\BunqModel;
+use bunq\Model\Core\BunqModel;
 
 /**
  * Represents a PaymentSuspendedOutgoing object.
